@@ -1,0 +1,2 @@
+En la tabla "libro" se modificó la columna autor para que sea un foreign key con la tabla "autor".
+Es necesario este cambio para que las funciones CRUD funcionen correctamente en esta tabla.
